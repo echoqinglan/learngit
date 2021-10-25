@@ -1,6 +1,6 @@
 it is a version control system.
 can we make friends?
- 
+git tracks changes of files.
 
 
 
