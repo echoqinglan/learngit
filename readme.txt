@@ -1,4 +1,4 @@
 it is a version control system.
 can we make friends?
 git tracks changes of files.
-create a repository.
+Creating a new branch is quick.
