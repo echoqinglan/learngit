@@ -1,4 +1,4 @@
 It is a version control system.
 can we make friends?
-git tracks changes of files.
+Git tracks changes of 3 files.
 Creating a branch is quick & simple.
